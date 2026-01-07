@@ -7,7 +7,7 @@
 
 <p>
     단순히 동작하는 코드보다 <b>원리와 구조가 설명되는 코드</b>를 지향하며,  
-    실험·구현·검증을 반복하는 과정을 통해 꾸준히 성장하고 있습니다 📹
+    실험·구현·검증을 반복하는 과정을 통해 꾸준히 성장하고 있습니다!
 </p>
 
 <hr/>
@@ -15,7 +15,7 @@
 <h2>🛠️ 기술 스택</h2>
 <p>
     <b>Backend / Server</b><br/>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black"/>&nbsp
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
